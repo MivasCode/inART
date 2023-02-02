@@ -1,0 +1,15 @@
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\bin\Debug\net6.0\Repo.deps.json
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\bin\Debug\net6.0\Repo.dll
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\bin\Debug\net6.0\Repo.pdb
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\bin\Debug\net6.0\Data.dll
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\bin\Debug\net6.0\Data.pdb
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.csproj.CopyComplete
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.dll
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\refint\Repo.dll
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\Repo.pdb
+C:\Users\Михаил\RiderProjects\Titaet2-main\Repo\obj\Debug\net6.0\ref\Repo.dll
